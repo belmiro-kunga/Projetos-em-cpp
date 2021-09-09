@@ -12,5 +12,7 @@ void showMenu(){
 
 int main(){
     //verificar saldo, deposito, levantamento,mostrar menu
+    
+    showMenu();
     system("pause>0");
 }
